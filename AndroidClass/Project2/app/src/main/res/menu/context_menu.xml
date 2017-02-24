@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item
+        android:id="@+id/play_video_clip"
+        android:title="Play Video Clip"
+        />
+
+    <item
+        android:id="@+id/open_song_wiki"
+        android:title="Open Wikipedia Page for Song"
+        />
+
+    <item
+        android:id="@+id/open_artist_wiki"
+        android:title="Open Wikipedia Page for Artist"
+        />
+</menu>
