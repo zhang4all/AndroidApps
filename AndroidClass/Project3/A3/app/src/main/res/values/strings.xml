@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">A3</string>
+    <string-array name="nbaTeams">
+        <item>Chicago Bulls</item>
+        <item>LA Lakers</item>
+        <item>Miami Heat</item>
+        <item>Cleveland Cavaliers</item>
+        <item>"OKC Thunder</item>
+        <item>"Golden State Warriors</item>
+    </string-array>
+    <string-array name="mlbTeams">
+        <item>Baltimore Orioles</item>
+        <item>Boston Red Sox</item>
+        <item>Chicago White Sox</item>
+        <item>Cleveland Indians</item>
+        <item>"Detroit Tigers</item>
+        <item>"Colorado Rockies</item>
+    </string-array>
+    <string-array name="nbaSites">
+        <item>http://www.nba.com/bulls/</item>
+        <item>http://www.nba.com/lakers/</item>
+        <item>http://www.nba.com/heat/</item>
+        <item>http://www.nba.com/cavaliers/</item>
+        <item>"http://www.nba.com/thunder/</item>
+        <item>"http://www.nba.com/warriors/</item>
+    </string-array>
+    <string-array name="mlbSites">
+        <item>http://baltimore.orioles.mlb.com/index.jsp?c_id=bal</item>
+        <item>http://boston.redsox.mlb.com/index.jsp?c_id=bos</item>
+        <item>http://chicago.whitesox.mlb.com/index.jsp?c_id=cws</item>
+        <item>http://cleveland.indians.mlb.com/index.jsp?c_id=cle</item>
+        <item>"http://detroit.tigers.mlb.com/index.jsp?c_id=det</item>
+        <item>"http://colorado.rockies.mlb.com/index.jsp?c_id=col</item>
+    </string-array>
+
+</resources>

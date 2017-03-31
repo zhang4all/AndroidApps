@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string name="customPermissionDescription">Allows user to receive the intent of this broadcast receiver</string>
+</resources>
